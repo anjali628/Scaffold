@@ -16,7 +16,7 @@ fun Scaf() {
         topBar = {
             TopAppBar(
                 title = {
-                    Text(text = "Bootcamp")
+                    Text(text = "Scaffold_tutorial")
                 },
                 navigationIcon = {
                     Icon(imageVector = Icons.Default.Menu, contentDescription = "")
